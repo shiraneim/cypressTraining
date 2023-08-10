@@ -1,0 +1,22 @@
+{
+  "name": "cypresstraining",
+  "version": "1.0.0",
+  "description": "Projeto para treino de uso do Cypress.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiraneim/cypressTraining.git"
+  },
+  "author": "André Narita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shiraneim/cypressTraining/issues"
+  },
+  "homepage": "https://github.com/shiraneim/cypressTraining#readme",
+  "devDependencies": {
+    "cypress": "^12.17.3"
+  }
+}
